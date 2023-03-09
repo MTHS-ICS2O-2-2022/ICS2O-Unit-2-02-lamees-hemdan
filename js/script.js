@@ -5,6 +5,6 @@
 // This file contains the JS functions for index.html
 
   function doMathClicked() {
-    document .getElementById('perimeter').innerHTML = "<p>Perimeter = " + (10+5+10+5) + " cm</p>"
-    document .getElementById('area').innerHTML = "<p>Area = " + (10*5) + " ㎠</p>"
+    document .getElementById('perimeter').innerHTML = "<p>Perimeter = " + (3+5+5+3) + " cm</p>"
+    document .getElementById('area').innerHTML = "<p>Area = " + (5*3) + " cm2</p>"
   }
