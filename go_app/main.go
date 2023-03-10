@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	//This calculates Area and Perimeter, dimensions of 5cm and 3cm
+	// This calculates Area and Perimeter, dimensions of 5cm and 3cm
 	fmt.Println("The dimensions are: 5 cm and 3 cm")
 	fmt.Println("Area is", 5*3, "cm²")
 	fmt.Println("Perimeter is", 2*(5+3), "cm")
