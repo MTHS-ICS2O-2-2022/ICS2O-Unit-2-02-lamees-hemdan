@@ -15,5 +15,5 @@ func main() {
 	fmt.Println("Area is", 5*3, "cm²")
 	fmt.Println("Perimeter is", 2*(5+3), "cm")
 
-	fmt.Println("\nDone.") 
+	fmt.Println("\nDone.")
 }
