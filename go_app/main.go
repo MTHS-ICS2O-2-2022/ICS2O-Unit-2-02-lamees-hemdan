@@ -1,7 +1,7 @@
-//Created By: Lamees Hemdan
-//Created on: March 2023
+// Created By: Lamees Hemdan
+// Created on: March 2023
 //
-//This program calcualtes area and perimeter of a rectangle
+// This program calcualtes area and perimeter of a rectangle
 
 package main
 
